@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Northwind.DTO\Northwind.DTO.csproj" />
+    <ProjectReference Include="..\NorthWind.ORM\Northwind.ORM.csproj" />
+    <ProjectReference Include="..\Northwind.Repository\Northwind.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\bin\Debug\net6.0\NorthWind.ORM.deps.json
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\bin\Debug\net6.0\NorthWind.ORM.dll
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\bin\Debug\net6.0\NorthWind.ORM.pdb
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\NorthWind.ORM.csproj.AssemblyReference.cache
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\NorthWind.ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\NorthWind.ORM.AssemblyInfoInputs.cache
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\NorthWind.ORM.AssemblyInfo.cs
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\NorthWind.ORM.csproj.CoreCompileInputs.cache
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\NorthWind.ORM.dll
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\refint\NorthWind.ORM.dll
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\NorthWind.ORM.pdb
+C:\Users\akifk\source\repos\EntityFramework\NorthwindProject\NorthWind.ORM\obj\Debug\net6.0\ref\NorthWind.ORM.dll
